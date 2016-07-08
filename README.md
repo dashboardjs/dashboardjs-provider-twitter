@@ -1,1 +1,1 @@
-# provider-twitter
+# Dashboard.js Twitter provider
